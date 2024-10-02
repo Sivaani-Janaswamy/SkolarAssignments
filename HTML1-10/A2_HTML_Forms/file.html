@@ -3,9 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Form</title>
 </head>
 <body>
-    
+ <form action="/submit" method="POST">
+    <h1> HTML FORMS </h1>
+    <label for = "name"> Name: </label>
+    <input type = "text" id = "name" name = "name"><br><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email"><br><br>
+    <label for = "pwd"> Password: </label>
+    <input type = "text" id = "pwd" name = "pwd"><br><br>
+    <label for="chk">Terms and Conditions: </label>
+    <input type="checkbox" id="chk" name="chk" value="yes"><br><br>
+    <input type="submit" value="Submit"><br><br>
+ </form>
 </body>
 </html>
