@@ -14,7 +14,7 @@ Skolar Full-Stack Development Course Assignments
    <a href = "HTML1-10/A9_HTML_Media/file.html">7. HTML Media </a><br>
    <a href = "HTML1-10/A8_HTML_Form_Radio_Select_Buttons/file.html">8. HTML Form with Radio and Select Buttons </a><br>
    <a href = "HTML1-10/A9_HTML5_Semantic_Elements/file.html">9. HTML5  Semantic Elements </a><br>
-   <a href = "HTML1-10/A10_HTML_Comments_Spl_characters/file.html">10. HTML Comments and Special Chanracters </a><br>
+   <a href = "HTML1-10/A10_HTML_Comments_Spl_characters/file.html">10. HTML Comments and Special Characters </a><br>
 
 </p>
 </div>
