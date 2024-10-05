@@ -1,4 +1,4 @@
-# Skolar Assignments
+# Skolar Assignments 📄
 Skolar Full-Stack Development Course Assignments 
 
 <div>
