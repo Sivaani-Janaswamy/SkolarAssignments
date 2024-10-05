@@ -4,7 +4,7 @@ Skolar Full-Stack Development Course Assignments
 <div>
 <h2>HTML (1-10): 25th September to 15th October</h2>
 <p> 
-   10 Assignments: Using Basic HTML and CSS <br>
+   (1-10) Assignments: Using Basic HTML and CSS <br>
    <a href = "C:\Users\sivaa\MyFiles\fullstackdevelopment\HTML1-10\A1_Basic_HTML_structure\file.html">1. Basic HTML Structure Document </a><br>
    <a href = "C:\Users\sivaa\MyFiles\fullstackdevelopment HTML1-10\A2_HTML_Forms\file.html">2. HTML Forms </a><br>
    <a href = "C:\Users\sivaa\MyFiles\fullstackdevelopment\HTML1-10\A3_HTML_tables\file.html">3. HTML Tables </a><br>
