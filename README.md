@@ -1,5 +1,6 @@
 # Skolar Assignments 📄
-Skolar Full-Stack Development Course Assignments 
+Skolar Full-Stack Development Course Assignments <br>
+<a href = "https://sivaani-janaswamy.github.io/SkolarAssignments/">SkolarAssignments Website Link</a><br>
 
 <div>
 <h2>HTML (1-10): 25th September to 15th October</h2>
