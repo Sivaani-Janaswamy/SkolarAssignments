@@ -1,0 +1,50 @@
+*{
+    margin:20px 20px 20px 20px;
+    background-color: darksalmon;
+}
+body{
+    padding: 5px 10px 10px 10px;
+    border-radius: 2.5rem;
+    background-color:lavenderblush;
+}
+form{
+    padding: 5px 5px 5px 5px;
+    background-color: lavenderblush;
+}
+h1{
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: sans-serif;
+    color:darksalmon;
+    background: none;
+}
+label{
+    font-size: 1.3rem;
+    font-family:sans-serif;
+    color:rgb(0, 0, 0);
+    background: none;
+}
+input[type="text"],
+input[type="email"] {
+    width: 20%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+    width:20px;
+    height:20px;
+}
+
+input[type="submit"] {
+    background-color: darksalmon;
+    color: white;
+    padding: 20px 50px 20px 50px;
+    border: none;
+    border-radius: 20px;
+    font-size: 1.5rem;
+   
+}
