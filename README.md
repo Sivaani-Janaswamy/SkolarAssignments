@@ -17,10 +17,5 @@ Skolar Full-Stack Development Course Assignments
    <a href = "HTML1-10/A10_HTML_Comments_Spl_characters/file.html">10. HTML Comments and Special Characters </a><br>
    
 </p>
-<p> Webpages with Only HTML :
-    <ul>
-     <li> </li>
-     <li> </li>
-    </ul>
-</div>
+
   

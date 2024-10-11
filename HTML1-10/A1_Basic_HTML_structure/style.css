@@ -1,6 +1,53 @@
 *{
+  margin: 20px 20px 20px 20px;
   background-color: beige;
+
 }
 h1{
+  padding: 0 30px;
+  border-radius: 2rem;
+  background-color:mediumseagreen;
+  color:beige;
   text-align: center;
+  font-family:sans-serif;
+  font-size: 3.5rem;
+}
+p{
+    padding: 30px 30px 30px 30px;
+    border-radius:2.5rem;
+    background-color:coral;
+    color: beige;
+    text-align:center;
+    font-size:1.1rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+a{
+    color: green;
+    text-decoration: none;
+    background: none;
+}
+div{
+    padding: 30px 30px 30px 30px;
+    border-radius:2.5rem;
+    background-color:coral;
+    text-align:center;
+}
+span{
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color:beige;
+    background: none;
+}
+ul {
+    background-color:coral;
+    padding-left: 20px; 
+    margin: 0;
+}
+ul li {
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color:beige;
+    margin-left: 0;
+    list-style-position: inside;
+    background: none;
 }
